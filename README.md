@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Everyone!
+
+Albert here, Learning about Block Chain technology.
